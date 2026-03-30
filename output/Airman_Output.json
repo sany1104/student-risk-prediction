@@ -1,0 +1,390 @@
+[
+  {
+    "student_id":"STD_094",
+    "risk_label":"critical",
+    "risk_score":77,
+    "top_factors":[
+      "High inactivity",
+      "Low attendance",
+      "Low quiz score"
+    ],
+    "recommendation":"Take immediate action: schedule instructor review and provide extra support."
+  },
+  {
+    "student_id":"STD_169",
+    "risk_label":"critical",
+    "risk_score":72,
+    "top_factors":[
+      "High inactivity",
+      "Low attendance",
+      "Low quiz score"
+    ],
+    "recommendation":"Take immediate action: schedule instructor review and provide extra support."
+  },
+  {
+    "student_id":"STD_022",
+    "risk_label":"critical",
+    "risk_score":70,
+    "top_factors":[
+      "High inactivity",
+      "Low attendance"
+    ],
+    "recommendation":"Take immediate action: schedule instructor review and provide extra support."
+  },
+  {
+    "student_id":"STD_125",
+    "risk_label":"critical",
+    "risk_score":70,
+    "top_factors":[
+      "High inactivity",
+      "Low attendance",
+      "High missed sessions"
+    ],
+    "recommendation":"Take immediate action: schedule instructor review and provide extra support."
+  },
+  {
+    "student_id":"STD_042",
+    "risk_label":"critical",
+    "risk_score":64,
+    "top_factors":[
+      "High inactivity",
+      "Low attendance",
+      "Low quiz score"
+    ],
+    "recommendation":"Take immediate action: schedule instructor review and provide extra support."
+  },
+  {
+    "student_id":"STD_053",
+    "risk_label":"critical",
+    "risk_score":62,
+    "top_factors":[
+      "Low attendance",
+      "Low quiz score",
+      "High missed sessions"
+    ],
+    "recommendation":"Take immediate action: schedule instructor review and provide extra support."
+  },
+  {
+    "student_id":"STD_074",
+    "risk_label":"critical",
+    "risk_score":62,
+    "top_factors":[
+      "High inactivity",
+      "Low attendance",
+      "Low quiz score"
+    ],
+    "recommendation":"Take immediate action: schedule instructor review and provide extra support."
+  },
+  {
+    "student_id":"STD_190",
+    "risk_label":"critical",
+    "risk_score":55,
+    "top_factors":[
+      "High inactivity",
+      "Low quiz score"
+    ],
+    "recommendation":"Take immediate action: schedule instructor review and provide extra support."
+  },
+  {
+    "student_id":"STD_033",
+    "risk_label":"needs_attention",
+    "risk_score":44,
+    "top_factors":[
+      "High inactivity",
+      "Low quiz score"
+    ],
+    "recommendation":"Monitor regularly and give additional practice to improve performance."
+  },
+  {
+    "student_id":"STD_146",
+    "risk_label":"needs_attention",
+    "risk_score":35,
+    "top_factors":[
+      "Low attendance",
+      "High missed sessions"
+    ],
+    "recommendation":"Monitor regularly and give additional practice to improve performance."
+  },
+  {
+    "student_id":"STD_036",
+    "risk_label":"needs_attention",
+    "risk_score":23,
+    "top_factors":[
+      "Low quiz score"
+    ],
+    "recommendation":"Monitor regularly and give additional practice to improve performance."
+  },
+  {
+    "student_id":"STD_140",
+    "risk_label":"needs_attention",
+    "risk_score":20,
+    "top_factors":[
+      "Low attendance"
+    ],
+    "recommendation":"Monitor regularly and give additional practice to improve performance."
+  },
+  {
+    "student_id":"STD_043",
+    "risk_label":"needs_attention",
+    "risk_score":17,
+    "top_factors":[
+      "Low attendance",
+      "Low quiz score",
+      "High missed sessions"
+    ],
+    "recommendation":"Monitor regularly and give additional practice to improve performance."
+  },
+  {
+    "student_id":"STD_187",
+    "risk_label":"needs_attention",
+    "risk_score":14,
+    "top_factors":[
+      "Low quiz score",
+      "High missed sessions"
+    ],
+    "recommendation":"Monitor regularly and give additional practice to improve performance."
+  },
+  {
+    "student_id":"STD_168",
+    "risk_label":"needs_attention",
+    "risk_score":12,
+    "top_factors":[
+      "Low attendance",
+      "Low quiz score"
+    ],
+    "recommendation":"Monitor regularly and give additional practice to improve performance."
+  },
+  {
+    "student_id":"STD_064",
+    "risk_label":"needs_attention",
+    "risk_score":12,
+    "top_factors":[
+      "Low attendance"
+    ],
+    "recommendation":"Monitor regularly and give additional practice to improve performance."
+  },
+  {
+    "student_id":"STD_138",
+    "risk_label":"needs_attention",
+    "risk_score":12,
+    "top_factors":[
+      "Low quiz score"
+    ],
+    "recommendation":"Monitor regularly and give additional practice to improve performance."
+  },
+  {
+    "student_id":"STD_116",
+    "risk_label":"needs_attention",
+    "risk_score":12,
+    "top_factors":[
+      "Low quiz score"
+    ],
+    "recommendation":"Monitor regularly and give additional practice to improve performance."
+  },
+  {
+    "student_id":"STD_103",
+    "risk_label":"needs_attention",
+    "risk_score":10,
+    "top_factors":[
+      "Low quiz score",
+      "Low quiz attempts"
+    ],
+    "recommendation":"Monitor regularly and give additional practice to improve performance."
+  },
+  {
+    "student_id":"STD_183",
+    "risk_label":"needs_attention",
+    "risk_score":9,
+    "top_factors":[
+      "Low quiz score",
+      "High missed sessions"
+    ],
+    "recommendation":"Monitor regularly and give additional practice to improve performance."
+  },
+  {
+    "student_id":"STD_122",
+    "risk_label":"needs_attention",
+    "risk_score":5,
+    "top_factors":[
+      "High inactivity"
+    ],
+    "recommendation":"Monitor regularly and give additional practice to improve performance."
+  },
+  {
+    "student_id":"STD_057",
+    "risk_label":"on_track",
+    "risk_score":5,
+    "top_factors":[
+      "Low attendance",
+      "High missed sessions"
+    ],
+    "recommendation":"Student is doing well. Encourage consistency and participation."
+  },
+  {
+    "student_id":"STD_048",
+    "risk_label":"on_track",
+    "risk_score":4,
+    "top_factors":[
+
+    ],
+    "recommendation":"Student is doing well. Encourage consistency and participation."
+  },
+  {
+    "student_id":"STD_161",
+    "risk_label":"on_track",
+    "risk_score":4,
+    "top_factors":[
+      "High inactivity",
+      "High missed sessions"
+    ],
+    "recommendation":"Student is doing well. Encourage consistency and participation."
+  },
+  {
+    "student_id":"STD_111",
+    "risk_label":"needs_attention",
+    "risk_score":4,
+    "top_factors":[
+      "High inactivity"
+    ],
+    "recommendation":"Monitor regularly and give additional practice to improve performance."
+  },
+  {
+    "student_id":"STD_009",
+    "risk_label":"on_track",
+    "risk_score":4,
+    "top_factors":[
+      "High inactivity",
+      "Low quiz score"
+    ],
+    "recommendation":"Student is doing well. Encourage consistency and participation."
+  },
+  {
+    "student_id":"STD_200",
+    "risk_label":"on_track",
+    "risk_score":3,
+    "top_factors":[
+      "High inactivity"
+    ],
+    "recommendation":"Student is doing well. Encourage consistency and participation."
+  },
+  {
+    "student_id":"STD_073",
+    "risk_label":"needs_attention",
+    "risk_score":2,
+    "top_factors":[
+      "High inactivity"
+    ],
+    "recommendation":"Monitor regularly and give additional practice to improve performance."
+  },
+  {
+    "student_id":"STD_034",
+    "risk_label":"on_track",
+    "risk_score":2,
+    "top_factors":[
+      "High inactivity"
+    ],
+    "recommendation":"Student is doing well. Encourage consistency and participation."
+  },
+  {
+    "student_id":"STD_005",
+    "risk_label":"on_track",
+    "risk_score":1,
+    "top_factors":[
+      "Low quiz attempts"
+    ],
+    "recommendation":"Student is doing well. Encourage consistency and participation."
+  },
+  {
+    "student_id":"STD_079",
+    "risk_label":"on_track",
+    "risk_score":1,
+    "top_factors":[
+      "Low quiz attempts"
+    ],
+    "recommendation":"Student is doing well. Encourage consistency and participation."
+  },
+  {
+    "student_id":"STD_156",
+    "risk_label":"on_track",
+    "risk_score":1,
+    "top_factors":[
+      "Low quiz attempts",
+      "High missed sessions"
+    ],
+    "recommendation":"Student is doing well. Encourage consistency and participation."
+  },
+  {
+    "student_id":"STD_124",
+    "risk_label":"on_track",
+    "risk_score":0,
+    "top_factors":[
+      "Low quiz score"
+    ],
+    "recommendation":"Student is doing well. Encourage consistency and participation."
+  },
+  {
+    "student_id":"STD_016",
+    "risk_label":"on_track",
+    "risk_score":0,
+    "top_factors":[
+      "High inactivity",
+      "Low quiz score"
+    ],
+    "recommendation":"Student is doing well. Encourage consistency and participation."
+  },
+  {
+    "student_id":"STD_105",
+    "risk_label":"on_track",
+    "risk_score":0,
+    "top_factors":[
+      "Low quiz attempts"
+    ],
+    "recommendation":"Student is doing well. Encourage consistency and participation."
+  },
+  {
+    "student_id":"STD_089",
+    "risk_label":"on_track",
+    "risk_score":0,
+    "top_factors":[
+
+    ],
+    "recommendation":"Student is doing well. Encourage consistency and participation."
+  },
+  {
+    "student_id":"STD_174",
+    "risk_label":"on_track",
+    "risk_score":0,
+    "top_factors":[
+
+    ],
+    "recommendation":"Student is doing well. Encourage consistency and participation."
+  },
+  {
+    "student_id":"STD_086",
+    "risk_label":"on_track",
+    "risk_score":0,
+    "top_factors":[
+
+    ],
+    "recommendation":"Student is doing well. Encourage consistency and participation."
+  },
+  {
+    "student_id":"STD_114",
+    "risk_label":"on_track",
+    "risk_score":0,
+    "top_factors":[
+      "Low quiz attempts",
+      "High missed sessions"
+    ],
+    "recommendation":"Student is doing well. Encourage consistency and participation."
+  },
+  {
+    "student_id":"STD_175",
+    "risk_label":"on_track",
+    "risk_score":0,
+    "top_factors":[
+
+    ],
+    "recommendation":"Student is doing well. Encourage consistency and participation."
+  }
+]

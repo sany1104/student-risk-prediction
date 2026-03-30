@@ -1,1 +1,201 @@
-
+student_id,risk_label,risk_score,top_factors,recommendation
+STD_067,critical,94,"['High inactivity', 'Low attendance', 'Low quiz attempts']",Take immediate action: schedule instructor review and provide extra support.
+STD_128,critical,92,"['High inactivity', 'Low attendance', 'Low quiz score']",Take immediate action: schedule instructor review and provide extra support.
+STD_015,critical,90,"['High inactivity', 'Low quiz score']",Take immediate action: schedule instructor review and provide extra support.
+STD_019,critical,89,"['High inactivity', 'Low attendance', 'Low quiz attempts']",Take immediate action: schedule instructor review and provide extra support.
+STD_143,critical,88,"['High inactivity', 'Low quiz score']",Take immediate action: schedule instructor review and provide extra support.
+STD_006,critical,88,"['High inactivity', 'Low attendance']",Take immediate action: schedule instructor review and provide extra support.
+STD_084,critical,87,"['High inactivity', 'Low attendance', 'Low quiz score']",Take immediate action: schedule instructor review and provide extra support.
+STD_170,critical,87,"['High inactivity', 'Low attendance', 'Low quiz score']",Take immediate action: schedule instructor review and provide extra support.
+STD_050,critical,86,"['High inactivity', 'Low attendance', 'High missed sessions']",Take immediate action: schedule instructor review and provide extra support.
+STD_130,critical,84,"['High inactivity', 'Low attendance', 'Low quiz score']",Take immediate action: schedule instructor review and provide extra support.
+STD_147,critical,84,"['Low attendance', 'Low quiz score', 'Low quiz attempts']",Take immediate action: schedule instructor review and provide extra support.
+STD_135,critical,84,"['High inactivity', 'Low attendance', 'Low quiz attempts']",Take immediate action: schedule instructor review and provide extra support.
+STD_087,critical,84,"['Low attendance', 'Low quiz score', 'Low quiz attempts']",Take immediate action: schedule instructor review and provide extra support.
+STD_059,critical,84,"['High inactivity', 'Low quiz score', 'Low quiz attempts']",Take immediate action: schedule instructor review and provide extra support.
+STD_058,critical,84,"['Low attendance', 'Low quiz score', 'High missed sessions']",Take immediate action: schedule instructor review and provide extra support.
+STD_148,critical,83,"['High inactivity', 'Low attendance', 'Low quiz attempts']",Take immediate action: schedule instructor review and provide extra support.
+STD_044,critical,82,"['High inactivity', 'Low quiz score']",Take immediate action: schedule instructor review and provide extra support.
+STD_027,critical,82,"['High inactivity', 'Low attendance', 'High missed sessions']",Take immediate action: schedule instructor review and provide extra support.
+STD_081,critical,81,"['High inactivity', 'Low quiz score', 'Low quiz attempts']",Take immediate action: schedule instructor review and provide extra support.
+STD_018,critical,81,"['High inactivity', 'Low quiz score']",Take immediate action: schedule instructor review and provide extra support.
+STD_181,critical,81,"['High inactivity', 'Low quiz score', 'Low quiz attempts']",Take immediate action: schedule instructor review and provide extra support.
+STD_189,critical,79,"['High inactivity', 'Low attendance', 'Low quiz score']",Take immediate action: schedule instructor review and provide extra support.
+STD_094,critical,77,"['High inactivity', 'Low attendance', 'Low quiz score']",Take immediate action: schedule instructor review and provide extra support.
+STD_021,critical,75,"['High inactivity', 'Low quiz score', 'High missed sessions']",Take immediate action: schedule instructor review and provide extra support.
+STD_119,critical,75,"['High inactivity', 'Low quiz score', 'High missed sessions']",Take immediate action: schedule instructor review and provide extra support.
+STD_169,critical,72,"['High inactivity', 'Low attendance', 'Low quiz score']",Take immediate action: schedule instructor review and provide extra support.
+STD_082,critical,70,"['Low attendance', 'Low quiz score']",Take immediate action: schedule instructor review and provide extra support.
+STD_022,critical,70,"['High inactivity', 'Low attendance']",Take immediate action: schedule instructor review and provide extra support.
+STD_125,critical,70,"['High inactivity', 'Low attendance', 'High missed sessions']",Take immediate action: schedule instructor review and provide extra support.
+STD_091,critical,68,"['Low quiz score', 'Low quiz attempts']",Take immediate action: schedule instructor review and provide extra support.
+STD_042,critical,64,"['High inactivity', 'Low attendance', 'Low quiz score']",Take immediate action: schedule instructor review and provide extra support.
+STD_053,critical,62,"['Low attendance', 'Low quiz score', 'High missed sessions']",Take immediate action: schedule instructor review and provide extra support.
+STD_074,critical,62,"['High inactivity', 'Low attendance', 'Low quiz score']",Take immediate action: schedule instructor review and provide extra support.
+STD_190,critical,55,"['High inactivity', 'Low quiz score']",Take immediate action: schedule instructor review and provide extra support.
+STD_033,needs_attention,44,"['High inactivity', 'Low quiz score']",Monitor regularly and give additional practice to improve performance.
+STD_146,needs_attention,35,"['Low attendance', 'High missed sessions']",Monitor regularly and give additional practice to improve performance.
+STD_040,needs_attention,32,"['High inactivity', 'Low quiz score']",Monitor regularly and give additional practice to improve performance.
+STD_083,needs_attention,24,"['High inactivity', 'Low attendance']",Monitor regularly and give additional practice to improve performance.
+STD_036,needs_attention,23,['Low quiz score'],Monitor regularly and give additional practice to improve performance.
+STD_117,needs_attention,21,"['High inactivity', 'Low quiz score']",Monitor regularly and give additional practice to improve performance.
+STD_140,needs_attention,20,['Low attendance'],Monitor regularly and give additional practice to improve performance.
+STD_172,needs_attention,20,"['High inactivity', 'Low quiz score', 'High missed sessions']",Monitor regularly and give additional practice to improve performance.
+STD_055,needs_attention,19,"['High inactivity', 'Low attendance', 'Low quiz score']",Monitor regularly and give additional practice to improve performance.
+STD_035,needs_attention,18,['Low quiz score'],Monitor regularly and give additional practice to improve performance.
+STD_139,needs_attention,17,"['High inactivity', 'Low quiz score', 'High missed sessions']",Monitor regularly and give additional practice to improve performance.
+STD_043,needs_attention,17,"['Low attendance', 'Low quiz score', 'High missed sessions']",Monitor regularly and give additional practice to improve performance.
+STD_187,needs_attention,14,"['Low quiz score', 'High missed sessions']",Monitor regularly and give additional practice to improve performance.
+STD_075,needs_attention,14,"['Low quiz score', 'Low quiz attempts']",Monitor regularly and give additional practice to improve performance.
+STD_123,needs_attention,14,"['Low attendance', 'Low quiz score']",Monitor regularly and give additional practice to improve performance.
+STD_062,needs_attention,13,"['High inactivity', 'Low quiz score', 'High missed sessions']",Monitor regularly and give additional practice to improve performance.
+STD_116,needs_attention,12,['Low quiz score'],Monitor regularly and give additional practice to improve performance.
+STD_191,needs_attention,12,"['Low quiz score', 'Low quiz attempts']",Monitor regularly and give additional practice to improve performance.
+STD_138,needs_attention,12,['Low quiz score'],Monitor regularly and give additional practice to improve performance.
+STD_068,needs_attention,12,"['High inactivity', 'Low attendance', 'Low quiz score']",Monitor regularly and give additional practice to improve performance.
+STD_064,needs_attention,12,['Low attendance'],Monitor regularly and give additional practice to improve performance.
+STD_168,needs_attention,12,"['Low attendance', 'Low quiz score']",Monitor regularly and give additional practice to improve performance.
+STD_103,needs_attention,10,"['Low quiz score', 'Low quiz attempts']",Monitor regularly and give additional practice to improve performance.
+STD_100,needs_attention,10,['Low attendance'],Monitor regularly and give additional practice to improve performance.
+STD_115,needs_attention,9,"['High inactivity', 'Low quiz score', 'High missed sessions']",Monitor regularly and give additional practice to improve performance.
+STD_113,needs_attention,9,"['Low quiz score', 'Low quiz attempts']",Monitor regularly and give additional practice to improve performance.
+STD_183,needs_attention,9,"['Low quiz score', 'High missed sessions']",Monitor regularly and give additional practice to improve performance.
+STD_069,needs_attention,9,"['Low quiz score', 'High missed sessions']",Monitor regularly and give additional practice to improve performance.
+STD_013,on_track,8,"['High inactivity', 'Low attendance']",Student is doing well. Encourage consistency and participation.
+STD_072,needs_attention,7,['Low attendance'],Monitor regularly and give additional practice to improve performance.
+STD_126,needs_attention,7,['Low attendance'],Monitor regularly and give additional practice to improve performance.
+STD_166,on_track,7,"['High inactivity', 'Low quiz score', 'High missed sessions']",Student is doing well. Encourage consistency and participation.
+STD_192,needs_attention,6,"['Low quiz score', 'High missed sessions']",Monitor regularly and give additional practice to improve performance.
+STD_163,needs_attention,6,"['Low attendance', 'Low quiz score']",Monitor regularly and give additional practice to improve performance.
+STD_095,needs_attention,6,"['Low quiz score', 'Low quiz attempts']",Monitor regularly and give additional practice to improve performance.
+STD_078,needs_attention,6,"['High inactivity', 'Low attendance', 'Low quiz score']",Monitor regularly and give additional practice to improve performance.
+STD_085,needs_attention,6,"['Low quiz score', 'High missed sessions']",Monitor regularly and give additional practice to improve performance.
+STD_077,needs_attention,6,"['High inactivity', 'Low attendance']",Monitor regularly and give additional practice to improve performance.
+STD_107,needs_attention,6,"['High inactivity', 'Low attendance', 'Low quiz attempts']",Monitor regularly and give additional practice to improve performance.
+STD_122,needs_attention,5,['High inactivity'],Monitor regularly and give additional practice to improve performance.
+STD_080,needs_attention,5,"['High inactivity', 'High missed sessions']",Monitor regularly and give additional practice to improve performance.
+STD_153,needs_attention,5,"['High inactivity', 'Low quiz attempts']",Monitor regularly and give additional practice to improve performance.
+STD_057,on_track,5,"['Low attendance', 'High missed sessions']",Student is doing well. Encourage consistency and participation.
+STD_066,needs_attention,5,['Low quiz score'],Monitor regularly and give additional practice to improve performance.
+STD_157,needs_attention,5,['Low quiz score'],Monitor regularly and give additional practice to improve performance.
+STD_132,on_track,4,"['Low attendance', 'Low quiz score', 'Low quiz attempts']",Student is doing well. Encourage consistency and participation.
+STD_177,on_track,4,"['High inactivity', 'Low attendance', 'Low quiz score']",Student is doing well. Encourage consistency and participation.
+STD_161,on_track,4,"['High inactivity', 'High missed sessions']",Student is doing well. Encourage consistency and participation.
+STD_009,on_track,4,"['High inactivity', 'Low quiz score']",Student is doing well. Encourage consistency and participation.
+STD_048,on_track,4,[],Student is doing well. Encourage consistency and participation.
+STD_131,needs_attention,4,"['High inactivity', 'Low quiz score', 'Low quiz attempts']",Monitor regularly and give additional practice to improve performance.
+STD_112,needs_attention,4,['Low quiz score'],Monitor regularly and give additional practice to improve performance.
+STD_110,on_track,4,"['High inactivity', 'High missed sessions']",Student is doing well. Encourage consistency and participation.
+STD_111,needs_attention,4,['High inactivity'],Monitor regularly and give additional practice to improve performance.
+STD_200,on_track,3,['High inactivity'],Student is doing well. Encourage consistency and participation.
+STD_141,needs_attention,3,"['Low quiz attempts', 'High missed sessions']",Monitor regularly and give additional practice to improve performance.
+STD_118,needs_attention,3,['High inactivity'],Monitor regularly and give additional practice to improve performance.
+STD_092,needs_attention,3,"['Low quiz score', 'Low quiz attempts', 'High missed sessions']",Monitor regularly and give additional practice to improve performance.
+STD_099,needs_attention,3,"['High inactivity', 'Low attendance', 'Low quiz score']",Monitor regularly and give additional practice to improve performance.
+STD_149,on_track,3,"['High inactivity', 'Low attendance', 'Low quiz score']",Student is doing well. Encourage consistency and participation.
+STD_160,needs_attention,3,"['High inactivity', 'Low quiz attempts', 'High missed sessions']",Monitor regularly and give additional practice to improve performance.
+STD_011,needs_attention,3,"['High inactivity', 'Low quiz attempts', 'High missed sessions']",Monitor regularly and give additional practice to improve performance.
+STD_039,needs_attention,3,['Low quiz score'],Monitor regularly and give additional practice to improve performance.
+STD_049,needs_attention,3,['High inactivity'],Monitor regularly and give additional practice to improve performance.
+STD_167,needs_attention,3,"['High inactivity', 'Low attendance', 'High missed sessions']",Monitor regularly and give additional practice to improve performance.
+STD_090,needs_attention,2,"['High inactivity', 'Low attendance']",Monitor regularly and give additional practice to improve performance.
+STD_199,on_track,2,"['Low attendance', 'Low quiz attempts']",Student is doing well. Encourage consistency and participation.
+STD_150,needs_attention,2,['High inactivity'],Monitor regularly and give additional practice to improve performance.
+STD_142,on_track,2,['High inactivity'],Student is doing well. Encourage consistency and participation.
+STD_093,needs_attention,2,"['Low quiz attempts', 'High missed sessions']",Monitor regularly and give additional practice to improve performance.
+STD_109,needs_attention,2,"['High inactivity', 'Low attendance']",Monitor regularly and give additional practice to improve performance.
+STD_176,needs_attention,2,['Low attendance'],Monitor regularly and give additional practice to improve performance.
+STD_047,needs_attention,2,"['High inactivity', 'Low quiz attempts']",Monitor regularly and give additional practice to improve performance.
+STD_008,needs_attention,2,['Low quiz score'],Monitor regularly and give additional practice to improve performance.
+STD_038,needs_attention,2,"['High inactivity', 'Low quiz attempts']",Monitor regularly and give additional practice to improve performance.
+STD_061,on_track,2,"['High inactivity', 'Low attendance', 'High missed sessions']",Student is doing well. Encourage consistency and participation.
+STD_034,on_track,2,['High inactivity'],Student is doing well. Encourage consistency and participation.
+STD_073,needs_attention,2,['High inactivity'],Monitor regularly and give additional practice to improve performance.
+STD_005,on_track,1,['Low quiz attempts'],Student is doing well. Encourage consistency and participation.
+STD_054,on_track,1,['Low quiz attempts'],Student is doing well. Encourage consistency and participation.
+STD_152,on_track,1,['Low quiz attempts'],Student is doing well. Encourage consistency and participation.
+STD_193,needs_attention,1,"['High inactivity', 'Low quiz attempts']",Monitor regularly and give additional practice to improve performance.
+STD_156,on_track,1,"['Low quiz attempts', 'High missed sessions']",Student is doing well. Encourage consistency and participation.
+STD_151,on_track,1,['High inactivity'],Student is doing well. Encourage consistency and participation.
+STD_180,on_track,1,"['Low quiz score', 'High missed sessions']",Student is doing well. Encourage consistency and participation.
+STD_144,on_track,1,[],Student is doing well. Encourage consistency and participation.
+STD_101,on_track,1,"['High inactivity', 'Low attendance']",Student is doing well. Encourage consistency and participation.
+STD_096,on_track,1,"['Low attendance', 'Low quiz score']",Student is doing well. Encourage consistency and participation.
+STD_098,needs_attention,1,"['Low quiz attempts', 'High missed sessions']",Monitor regularly and give additional practice to improve performance.
+STD_121,on_track,1,['Low attendance'],Student is doing well. Encourage consistency and participation.
+STD_076,needs_attention,1,['High inactivity'],Monitor regularly and give additional practice to improve performance.
+STD_088,on_track,1,['Low quiz attempts'],Student is doing well. Encourage consistency and participation.
+STD_079,on_track,1,['Low quiz attempts'],Student is doing well. Encourage consistency and participation.
+STD_171,on_track,1,[],Student is doing well. Encourage consistency and participation.
+STD_129,needs_attention,1,"['High inactivity', 'Low quiz score', 'High missed sessions']",Monitor regularly and give additional practice to improve performance.
+STD_133,on_track,1,"['High inactivity', 'Low quiz score', 'Low quiz attempts']",Student is doing well. Encourage consistency and participation.
+STD_041,needs_attention,1,"['High inactivity', 'Low quiz attempts', 'High missed sessions']",Monitor regularly and give additional practice to improve performance.
+STD_070,needs_attention,1,['High inactivity'],Monitor regularly and give additional practice to improve performance.
+STD_030,on_track,1,[],Student is doing well. Encourage consistency and participation.
+STD_026,needs_attention,1,"['High inactivity', 'Low quiz score', 'Low quiz attempts']",Monitor regularly and give additional practice to improve performance.
+STD_025,needs_attention,1,"['High inactivity', 'Low quiz attempts']",Monitor regularly and give additional practice to improve performance.
+STD_010,on_track,1,"['Low attendance', 'Low quiz score', 'High missed sessions']",Student is doing well. Encourage consistency and participation.
+STD_071,on_track,0,[],Student is doing well. Encourage consistency and participation.
+STD_065,on_track,0,"['High inactivity', 'High missed sessions']",Student is doing well. Encourage consistency and participation.
+STD_060,on_track,0,['High missed sessions'],Student is doing well. Encourage consistency and participation.
+STD_063,needs_attention,0,['Low quiz score'],Monitor regularly and give additional practice to improve performance.
+STD_045,on_track,0,[],Student is doing well. Encourage consistency and participation.
+STD_051,on_track,0,"['High inactivity', 'High missed sessions']",Student is doing well. Encourage consistency and participation.
+STD_052,on_track,0,"['Low quiz attempts', 'High missed sessions']",Student is doing well. Encourage consistency and participation.
+STD_056,on_track,0,[],Student is doing well. Encourage consistency and participation.
+STD_046,on_track,0,[],Student is doing well. Encourage consistency and participation.
+STD_023,needs_attention,0,['Low quiz attempts'],Monitor regularly and give additional practice to improve performance.
+STD_017,on_track,0,['High missed sessions'],Student is doing well. Encourage consistency and participation.
+STD_028,on_track,0,['Low quiz attempts'],Student is doing well. Encourage consistency and participation.
+STD_032,on_track,0,['High missed sessions'],Student is doing well. Encourage consistency and participation.
+STD_031,on_track,0,"['High inactivity', 'Low attendance']",Student is doing well. Encourage consistency and participation.
+STD_029,on_track,0,[],Student is doing well. Encourage consistency and participation.
+STD_037,needs_attention,0,['High inactivity'],Monitor regularly and give additional practice to improve performance.
+STD_024,on_track,0,['High missed sessions'],Student is doing well. Encourage consistency and participation.
+STD_012,on_track,0,"['Low attendance', 'Low quiz score', 'High missed sessions']",Student is doing well. Encourage consistency and participation.
+STD_016,on_track,0,"['High inactivity', 'Low quiz score']",Student is doing well. Encourage consistency and participation.
+STD_020,on_track,0,"['Low quiz score', 'High missed sessions']",Student is doing well. Encourage consistency and participation.
+STD_014,on_track,0,['High missed sessions'],Student is doing well. Encourage consistency and participation.
+STD_003,on_track,0,['High missed sessions'],Student is doing well. Encourage consistency and participation.
+STD_002,on_track,0,['Low quiz score'],Student is doing well. Encourage consistency and participation.
+STD_007,on_track,0,[],Student is doing well. Encourage consistency and participation.
+STD_004,on_track,0,"['Low attendance', 'High missed sessions']",Student is doing well. Encourage consistency and participation.
+STD_001,on_track,0,[],Student is doing well. Encourage consistency and participation.
+STD_108,on_track,0,[],Student is doing well. Encourage consistency and participation.
+STD_097,on_track,0,['Low quiz attempts'],Student is doing well. Encourage consistency and participation.
+STD_089,on_track,0,[],Student is doing well. Encourage consistency and participation.
+STD_104,needs_attention,0,['Low quiz attempts'],Monitor regularly and give additional practice to improve performance.
+STD_102,needs_attention,0,"['Low quiz score', 'Low quiz attempts', 'High missed sessions']",Monitor regularly and give additional practice to improve performance.
+STD_086,on_track,0,[],Student is doing well. Encourage consistency and participation.
+STD_136,on_track,0,['Low quiz attempts'],Student is doing well. Encourage consistency and participation.
+STD_134,on_track,0,['Low attendance'],Student is doing well. Encourage consistency and participation.
+STD_124,on_track,0,['Low quiz score'],Student is doing well. Encourage consistency and participation.
+STD_127,needs_attention,0,"['High inactivity', 'High missed sessions']",Monitor regularly and give additional practice to improve performance.
+STD_106,needs_attention,0,['High inactivity'],Monitor regularly and give additional practice to improve performance.
+STD_105,on_track,0,['Low quiz attempts'],Student is doing well. Encourage consistency and participation.
+STD_114,on_track,0,"['Low quiz attempts', 'High missed sessions']",Student is doing well. Encourage consistency and participation.
+STD_120,on_track,0,['Low quiz attempts'],Student is doing well. Encourage consistency and participation.
+STD_137,on_track,0,[],Student is doing well. Encourage consistency and participation.
+STD_164,on_track,0,['Low quiz attempts'],Student is doing well. Encourage consistency and participation.
+STD_162,on_track,0,[],Student is doing well. Encourage consistency and participation.
+STD_159,on_track,0,['High missed sessions'],Student is doing well. Encourage consistency and participation.
+STD_155,on_track,0,['High inactivity'],Student is doing well. Encourage consistency and participation.
+STD_154,on_track,0,['High inactivity'],Student is doing well. Encourage consistency and participation.
+STD_158,on_track,0,['Low quiz score'],Student is doing well. Encourage consistency and participation.
+STD_145,on_track,0,"['Low quiz score', 'Low quiz attempts']",Student is doing well. Encourage consistency and participation.
+STD_165,on_track,0,[],Student is doing well. Encourage consistency and participation.
+STD_184,on_track,0,[],Student is doing well. Encourage consistency and participation.
+STD_178,on_track,0,['Low attendance'],Student is doing well. Encourage consistency and participation.
+STD_182,on_track,0,['Low attendance'],Student is doing well. Encourage consistency and participation.
+STD_174,on_track,0,[],Student is doing well. Encourage consistency and participation.
+STD_173,on_track,0,"['High inactivity', 'Low attendance']",Student is doing well. Encourage consistency and participation.
+STD_175,on_track,0,[],Student is doing well. Encourage consistency and participation.
+STD_179,on_track,0,"['Low quiz score', 'Low quiz attempts', 'High missed sessions']",Student is doing well. Encourage consistency and participation.
+STD_186,on_track,0,[],Student is doing well. Encourage consistency and participation.
+STD_185,on_track,0,"['Low quiz attempts', 'High missed sessions']",Student is doing well. Encourage consistency and participation.
+STD_188,on_track,0,['High missed sessions'],Student is doing well. Encourage consistency and participation.
+STD_194,on_track,0,[],Student is doing well. Encourage consistency and participation.
+STD_196,on_track,0,[],Student is doing well. Encourage consistency and participation.
+STD_195,on_track,0,['Low attendance'],Student is doing well. Encourage consistency and participation.
+STD_198,on_track,0,['High missed sessions'],Student is doing well. Encourage consistency and participation.
+STD_197,on_track,0,"['Low quiz score', 'Low quiz attempts']",Student is doing well. Encourage consistency and participation.
